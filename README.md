@@ -21,7 +21,7 @@ Right now there is no perfect platform to do this but the website, a - A d s . c
 
 # Questions and things still needed:
 
-Better images and specifically for sizes:
+1) Better images and specifically for sizes:
 
 320x50
 
