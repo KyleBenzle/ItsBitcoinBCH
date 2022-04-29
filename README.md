@@ -19,7 +19,7 @@ One solution to this is a community funded advertising platform where any money 
 r/btc - It's Bitcoin, BCH - An experimental advertising campaign for Bitcoin Cash
 Right now there is no perfect platform to do this but the website, a - A d s . c o m is set up so that once the ads are submitted it generates a deposit address which is automatically spent to fund the ads. I think given time and effort something like this would be a great option for a Bitcoin cash decentralized organization but for now would be fully dependent on a third party advertising platform.
 
-#Questions and things still needed:
+# Questions and things still needed:
 
 Better images and specifically for sizes:
 
